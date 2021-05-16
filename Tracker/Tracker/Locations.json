@@ -1,0 +1,124 @@
+[
+    {
+        "id": 1,
+        "name": "Památky UNESCO v České Republice",
+        "country": "",
+        "description": "Jako světové dědictví se označují nejrůznější kulturní a přírodní památky po celém světě, které byly pro svou unikátnost vybrány organizací UNESCO a přijaty na tzv. „seznam světového dědictví“. Na tomto seznamu se nacházejí nejrůznější budovy, hory, jezera, národní parky i celá města. Podle Úmluvy o ochraně světového kulturního a přírodního dědictví z roku 1975 jsou smluvní státy, na jejichž území se dané památky nachází, zavázány jejich ochranou.",
+        "more": "Úmluva o ochraně nehmotného kulturního dědictví byla organizací UNESCO přijata v roce 2003. Nehmotné dědictví zahrnuje především tradiční lidové kulturní projevy, které se předávají ústně z generace na generaci a jsou nepostradatelným výrazem jedinečnosti dané komunity. K dnešnímu dni seznam nehmotného dědictví UNESCO čítá více než 400 položek. Česká republika je zastoupená třemi samostatnými záznamy a dalšími dvěma záznamy sdílenými s dalšími zeměmi.",
+        "latitude": 0,
+        "longitude": 0,
+        "heroPicture": "Unesco",
+        "pictures": ["photo2", "photo3", "photo4", "photo5", "photo6", "photo7", "photo8", "photo1"],
+        "advisory": "We accept no liability for any visitors eaten alive by Pokemon."
+    },
+    {
+        "id": 2,
+        "name": "Historické centrum Prahy",
+        "country": "Česká Republika",
+        "description": "Praha již od středověku platila za jedno z předních kulturních center křesťanské Evropy. Je spojena s prominentními jmény v oblasti umění, vědy i politiky, jako jsou Karel IV., Jan Hus, Johannes Kepler, Wolfgang Amadeus Mozart, Albert Einstein ad. Historické jádro zahrnuje Pražský hrad, Hradčany, Malou Stranu, Karlův most, Staré Město s Josefovem, Nové Město, Vyšehrad a další památky. Všechny společně náleží k historicky i umělecky nejvýznamnějším v Evropě.",
+        "more": "Do dnešní podoby se Praha vyvíjela jedenáct století. Coby historická metropole byla hlavním městem Českého knížectví a Českého království. Město hrálo významnou roli v české a protestantské reformaci a v dějinách 20. století jako hlavní město Československa, a to jak během obou světových válek, tak v poválečné komunistické éře. Praha je domovem řady slavných kulturních atrakcí, z nichž mnohé přežily zničující období Evropy 20. století. Mezi hlavní atrakce patří Pražský hrad, Karlův most, Staroměstské náměstí s Pražským orlojem, Josefov, Petřín a Vyšehrad. Od roku 1992 je historické centrum Prahy zapsáno do seznamu světového kulturního dědictví UNESCO.",
+        "latitude": 50.0755,
+        "longitude": 14.4378,
+        "heroPicture": "Praha",
+        "pictures": ["photo2", "photo3", "photo4"],
+        "advisory": "We accept no liability for any visitors eaten alive by midges."
+    },
+
+        
+    {
+        "id": 3,
+        "name": "Zámek v Kroměříži",
+        "country": "Česká Republika",
+        "description": "Zahrady a zámek v Kroměříži jsou pozoruhodně zachovalým příkladem evropské barokní knížecí rezidence a rekreačních zahrad s větším parkem, jenž odráží romantismus 19. století. Soubor tvořený Arcibiskupským zámkem, sousední Podzámeckou zahradou a nedalekou Květnou zahradou byste našli v historickém centru města ve Zlínském kraji. Monumentální barokní zámek má bohatě zdobené interiéry a obsahuje cenné umělecké sbírky.",
+        "more": "Sněmovní sál kroměřížského zámku je jeden z nejkrásnějších rokokových interiérů ve střední Evropě.[5] Zajímavostí sálu je nástropní malba, která je ve skutečnosti provedena na plátně. Sál byl místem konání Ústavodárného říšského sněmu (Kroměřížský sněm) rakouských národů z roku 1848. Tento sněm začal původně 22. července 1848 ve Vídni, ale 7. října 1848 byl kvůli eskalaci událostí revoluce v Rakouském císařství přerušen a přesunut do Kroměříže.",
+        "latitude": 49.2917,
+        "longitude": 17.3994,
+        "heroPicture": "kromeriz",
+        "pictures": ["photo3", "photo4", "photo5", "photo6", "photo7"],
+        "advisory": ""
+    },
+    {
+        "id": 4,
+        "name": "Český Krumlov",
+        "country": "Česká Republika",
+        "description": "Město v Jihočeském kraji bylo postaveno na břehu Vltavy kolem hradu a zámku ze 13. století s gotickými, renesančními a barokními prvky. Je to skvělý příklad malého středoevropského středověkého města, jehož architektonické dědictví zůstává nedočtené díky poklidnému vývoji v průběhu více než pěti set let.",
+        "more": "V minulosti byl Český Krumlov sídelním městem mnoha mocných českých rodů – Vítkovců, pánů z Krumlova, Rožmberků, Eggenbergů a Schwarzenbergů, které cíleně pečovaly o jeho výstavbu a reprezentativní charakter. Český Krumlov byl zároveň hlavním správním centrem Rožmberského dominia a do roku 1918 i Krumlovského vévodství a Dominia schwarzenberského.",
+        "latitude": 48.8127,
+        "longitude": 14.3175,
+        "heroPicture": "krumlov",
+        "pictures": ["photo4", "photo5", "photo6", "photo7", "photo8"],
+        "advisory": ""
+    },
+    {
+        "id": 5,
+        "name": "Kutná Hora",
+        "country": "Česká Republika",
+        "description": "Ve 14. století se Kutná Hora stala královským městem s památkami symbolizujícími její význam a prosperitu. K vidění je tu nejen stříbrný důl a rozsáhlá kostnice, ale i dvě obzvláště důležité pamětihodnosti, Chrám sv. Barbory a Katedrála Nanebevzetí Panny Marie. Tato mistrovská díla jsou součástí zachovalé středověké městské struktury a rozhodně vás ohromí.",
+        "more": "Kutná Hora hrála významnou roli v národním obrození. Narodil se zde archeolog Jan Erazim Vocel a dramatik Josef Kajetán Tyl, v letech 1850–1851 zde žil a pracoval Karel Havlíček Borovský a vzniklo zde mnoho národních spolků a sdružení. Koncem 19. století byly gotické stavby obnoveny a chrám sv. Barbory v letech 1884–1893 dostavěn J. Mockerem.",
+        "latitude": 49.9524,
+        "longitude": 15.2687,
+        "heroPicture": "kutna",
+        "pictures": ["photo5", "photo6", "photo7", "photo8", "photo1", "photo2", "photo3", "photo4"],
+        "advisory": ""
+    },
+    {
+        "id": 6,
+        "name": "Historické centrum Telče",
+        "country": "Česká Republika",
+        "description": "Město Telč se nachází 25 km jihozápadně od Jihlavy, v kraji Vysočina. Historické centrum má trojúhelníkové tržní náměstí obklopené renesančními a barokními měšťanskými domy, jejichž původ je ovšem středověký. Původně byly ze dřeva, ale po požáru na konci 14. století byly přestavěny na kamenné. Město následně obklopily zdi. Gotický hrad byl v 15. století rovněž přestavěn.",
+        "more": "Podle místní pověsti bylo město založeno již v roce 1099. První písemná zmínka o něm však pochází až z roku 1315. Významným datem je rok 1339, kdy Telč dostal do vlastnictví Oldřich III. z Hradce z rodu Vítkovců. Jeho rod pak významně přispěl k rozvoji Telče. Vybudoval zdejší hrad a kostel, opevnil město a postavil též gotické domy kolem tržiště. Roku 1386 zničil požár západní polovinu náměstí i s kostelem a radnicí. V roce 1423 dobyli město husité.",
+        "latitude": 49.1832,
+        "longitude": 15.4543,
+        "heroPicture": "Telc",
+        "pictures": ["photo6", "photo7", "photo8", "photo1", "photo2", "photo3", "photo4"],
+        "advisory": ""
+    },
+    {
+        "id": 7,
+        "name": "Zámek Litomyšl",
+        "country": "Česká Republika",
+        "description": "Styl arkádového zámku vyvinuli v Itálii a následně upravili v českých zemích. Ve druhé polovině 16. století nechal zámek Litomyšl postavit Vratislav Nádherný z Pernštejna jako dar pro Marii Manrique de Lara. Jedním z pokladů zámku je divadlo z roku 1797.",
+        "more": "Vratislav z Pernštejna nechal západně od zámku zřídit pravidelnou zahradu s nedochovanou mramorovou kašnou. Na sever a východ od zámku se nacházelo opevnění, později proměněné v sady a užitkovou zahradu. V závěru 18. století byla tato zahrada upravena do podoby anglického parku, který dnes tvoří důležitou součást celého areálu.",
+        "latitude": 49.8705,
+        "longitude": 16.3111,
+        "heroPicture": "litomysl",
+        "pictures": ["photo7", "photo8", "photo1", "photo2", "photo3", "photo4", "photo5", "photo6"],
+        "advisory": ""
+    },
+    {
+        "id": 8,
+        "name": "Villa Tungedhat",
+        "country": "Česká Republika",
+        "description": "Vilu Tugendhat navrhl přední německý architekt Ludwig Mies van der Rohe na zakázku Grety a Fritze Tugendhatových, členů bohatých průmyslových rodin z Brna, v letech 1929 až 1930. Vila je průkopnickou prací moderní rezidenční architektury 20. století. Její zvláštní hodnota spočívá v použití inovativních prostorových a estetických konceptů, usilujících o uspokojení nových životních potřeb prostřednictvím moderní průmyslové výroby.",
+        "more": "Technická struktura stavby však zůstala i přes válečné újmy zachována. Po osvobození vila sloužila jako soukromá škola rytmiky a taneční gymnastiky paní Karly Hladké, a to v rozmezí let 1945–1950. Pak byla vila předána Státnímu ústavu léčebného tělocviku, který zde prováděl rehabilitaci dětí s vadami páteře a špatným držením těla. V 60. letech se ozývaly hlasy o významu vily jako památky moderní architektury. Tyto hlasy byly vyslyšeny 6. prosince 1969, kdy byl dům zapsán do Státního seznamu kulturních památek.",
+        "latitude": 49.1951,
+        "longitude": 16.6068,
+        "heroPicture": "villa",
+        "pictures": ["photo8", "photo1", "photo2", "photo3", "photo4"],
+        "advisory": ""
+    },
+    {
+        "id": 9,
+        "name": "Sloup Nejsvětější Trojice v Olomouci",
+        "country": "Česká Republika",
+        "description": "Pamětní sloup, postavený počátkem 18. století díky Václavu Renderovi v regionálním stylu známém coby „olomoucké baroko“, je vysoký 35 m a zdobený jemnými náboženskými sochami významného moravského umělce Ondřeje Zahnera. Stojí uprostřed historického centra Olomouce. Má vysokou symbolickou hodnotu. Představuje náboženskou oddanost a pocit hrdosti místních obyvatel.",
+        "more": "35 metrů vysoký sloup představuje nejvyšší sousoší České republiky a jeho součástí je i malá kaple. Od roku 1995 je společně s Mariánským sloupem a barokními kašnami národní kulturní památkou a v roce 2000 byl, jakožto jedno z vrcholných děl středoevropského baroka, zařazen mezi světové dědictví UNESCO.",
+        "latitude": 49.5938,
+        "longitude": 17.2509,
+        "heroPicture": "sloup",
+        "pictures": ["photo1", "photo2", "photo3", "photo4", "photo5", "photo6", "photo7", "photo8"],
+        "advisory": "We accept no liability for any visitors eaten alive by drop bears."
+    },
+    {
+        "id": 10,
+        "name": "Lednicko Valtický areál",
+        "country": "Česká Republika",
+        "description": "Krajinný celek v okrese Břeclav je pokládán za nejrozsáhlejší komponovanou krajinu v Evropě, ne-li na světě. Je dílem rodu Lichtenštejnů, vládnoucího během 17. až 20. století. Lichtenštejnové si vzali za vzor barokní architekturu a upravili renesanční zámky Lednice a Valtice. Celou oblast přetvořili v duchu anglických romantických principů krajinné architektury do podoby krásného přírodního parku.",
+        "more": "Oblast je nejlépe dostupná po dálnici D2 (exit 41 u Podivína) nebo rychlíkem do Břeclavi a odtud regionálními autobusy nebo vlaky (pravidelná osobní i sezónní turistická doprava). Přímo areálem vedou silnice I/40, II/422 (a další), železniční tratě 246 a 247, a dále několik turistických tras, cyklotras a naučných stezek.",
+        "latitude": 48.7999,
+        "longitude": 16.8034,
+        "heroPicture": "lednice",
+        "pictures": ["photo2", "photo3", "photo4", "photo5", "photo6", "photo7", "photo8", "photo1"],
+        "advisory": "We accept no liability for any visitors eaten alive by Pokemon."
+    },
+]
